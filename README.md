@@ -1,1 +1,6 @@
-# CANYYIMUPPPP.json
+{
+  "tokens" : [
+        "7672265484:AAFc8leH6YoITujbGg5b5rbAN3ziZuQexqg",
+        "7672265484:AAFc8leH6YoITujbGg5b5rbAN3ziZuQexqg",
+        ]
+}
